@@ -20,6 +20,7 @@ public class TestServlet extends HttpServlet {
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		System.out.println("hello world");
+		System.out.println("one");
 	}
 
 }
